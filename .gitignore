@@ -26,6 +26,5 @@ target/
 .DS_Store
 
 #resource
-#global/
-#database/
-#src/main/java/com/xiaoyu/lingdian/mapper/
+global/
+database/
